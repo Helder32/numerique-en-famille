@@ -1,0 +1,22 @@
+{
+  "name": "affiche-interactive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "benjamin": "0.0.1",
+    "bootstrap": "^4.3.1",
+    "helder": "0.0.0",
+    "jquery": "^3.4.1",
+    "jquery-ui": "^1.12.1",
+    "jqueryui": "^1.11.1",
+    "jshint": "^2.10.2",
+    "knut": "0.0.1",
+    "material-design-icons": "^3.0.1"
+  }
+}
